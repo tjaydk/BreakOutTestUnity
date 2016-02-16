@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FF1E62DB-FB85-C080-4896-4FFF26EAEB2F}") = "BreakOutTest", "Assembly-CSharp.csproj", "{8C3CC9EB-4696-D212-6EB1-0D52AD8F1FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3CC9EB-4696-D212-6EB1-0D52AD8F1FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3CC9EB-4696-D212-6EB1-0D52AD8F1FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3CC9EB-4696-D212-6EB1-0D52AD8F1FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3CC9EB-4696-D212-6EB1-0D52AD8F1FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
